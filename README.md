@@ -1,5 +1,4 @@
 # Tindog
-# Its a part of a course i'm currently following at UDEMY
 
 # It includes (not in any order);
 
